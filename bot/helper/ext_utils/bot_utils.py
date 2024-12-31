@@ -248,7 +248,7 @@ def source(self):
 
 
 def get_readable_message():
-    msg = "<b>Powered by F1 Mirror Leech ⚡</b>\n\n"
+    msg = "<b>Powered by SPARKBRO ⚡</b>\n\n"
     button = None
     tasks = len(download_dict)
     current_time = get_readable_time(time() - bot_start_time)
